@@ -1,4 +1,4 @@
-const sumArr = (numbers = [], target = 0) => {
+const sumNumberFindTarger = (numbers = [], target = 0) => {
   if (target < 0 || numbers.length === 0) {
     return false;
   }
