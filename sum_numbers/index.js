@@ -28,4 +28,4 @@ const sumNumberFindTarger = (numbers = [], target = 0) => {
   return false
 };
 
-module.exports = { sumArr };
+module.exports = { sumNumberFindTarger };
